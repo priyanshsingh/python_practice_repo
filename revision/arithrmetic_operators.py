@@ -18,3 +18,7 @@ print(10 // 3)
 
 #modulus
 print(10 % 3)  
+
+#Augmented Assignment Operators
+x = 5
+x += 10 #which was previously written as x = x + 10
