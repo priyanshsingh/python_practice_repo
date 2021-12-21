@@ -5,3 +5,6 @@ if d!=-1:
     print("Double Spaces Found")
 else:
     print("Double Spaces NOT Found")
+
+print(string1)
+print(string1.replace("  ", " "))

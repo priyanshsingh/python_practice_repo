@@ -4,3 +4,4 @@ b = int(input("Enter a number = "))
 c = a>b
 print("Result: ", end="")
 print(c)
+
