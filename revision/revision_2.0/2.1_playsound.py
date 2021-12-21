@@ -1,3 +1,3 @@
 from playsound import playsound
 
-playsound("song.mp3")
+playsound("E:\\python_practice\\revision\\revision_2.0\\song.wav")
