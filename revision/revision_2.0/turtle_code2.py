@@ -3,6 +3,8 @@ import turtle
 t = turtle.Turtle()
 s = turtle.Screen()
 
+s.setup (width=1920, height=1080, startx=0, starty=0)
+
 s.bgcolor("black")
 t.width(2)
 t.speed(15)
