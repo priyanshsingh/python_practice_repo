@@ -7,7 +7,7 @@ s.setup (width=1920, height=1080, startx=0, starty=0)
 
 s.bgcolor("#262626")
 t.pencolor("#7c909c")
-t.speed(100)
+t.speed(50)
 col = ("#ed7864", "#6e544f", "#592f2f", "#6e382e")
 for n in range (5):
     for x in range(8):
