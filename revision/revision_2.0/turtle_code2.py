@@ -14,4 +14,4 @@ for i in range(1000):
     t.pencolor(col[i%3])
     t.forward(i*4)
     t.right(121)
-
+    
