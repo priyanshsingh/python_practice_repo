@@ -31,7 +31,11 @@ font=("verdana", 12, "bold", "italic"), borderwidth=3, relief=SUNKEN)
 
 # Important PACK options
 # Anchor = nw
+# side = top, bottom, left, right
+# fill = 
+# padx = 
+# pady = 
 
-title_label.pack(anchor="ne")
+title_label.pack(anchor="sw", side=BOTTOM, fill=X)
 
 root.mainloop()
