@@ -1,2 +1,2 @@
 a = input("Enter number = ")
-print(a)
+print(a + ', what's up?')
