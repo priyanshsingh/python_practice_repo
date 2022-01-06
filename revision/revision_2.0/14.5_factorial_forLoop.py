@@ -6,4 +6,3 @@ for i in range(1, num+1):
 print("Factorial of " + str(num) + " is = " + str(factorial))
 
 
-    
